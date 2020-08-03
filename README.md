@@ -1,4 +1,11 @@
-### Hi there 👋
+## Hi there 👋, I'm Aaron  [<img src="https://github.com/Aaron2464/aaron2464/blob/master/image/GooglePlay.png" width="30" height="30">](https://play.google.com/store/apps/details?id=com.aaron.runmer) [<img src="https://github.com/Aaron2464/aaron2464/blob/master/image/linkedin.png" width="30" height="30">](https://www.linkedin.com/in/aaron2464/)
+
+### I am a highly proactive and fast learner who always makes good use of my free time to enhance my ability through online courses or books. 
+### Most importantly, I am always up for a challenge, so I am willing to take on difficult tasks!
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaron2464&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+- 📫 How to reach me **htim2464@gmail.com**
 
 <!--
 **Aaron2464/aaron2464** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
